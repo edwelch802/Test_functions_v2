@@ -1,0 +1,3 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+notebook* ## this will exclude the folder "notebook" from the build process

@@ -1,0 +1,10 @@
+Package: SCCTempConverter
+Type: Package
+Title: Temperature Conversion Package for Demonstration
+Version: 0.0.1.0
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+License: GNU
+Description: Creating my first downloadable project
+Author: R. Edwin Welch
+Maintainer: R. Edwin Welch
